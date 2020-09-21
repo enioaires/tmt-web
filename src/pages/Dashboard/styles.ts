@@ -1,6 +1,17 @@
 import styled from 'styled-components';
 
-export const Container = styled.div``;
+export const Container = styled.div`
+  height: 100vh;
+
+display: flex;
+align-items: stretch;
+flex-direction: column;
+
+
+    h1{
+        color: #ff9000;    
+        }
+`;
 
 export const Header = styled.header`
   padding: 32px 0;
