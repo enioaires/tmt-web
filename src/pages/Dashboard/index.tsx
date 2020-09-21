@@ -90,7 +90,7 @@ const Dashboard: React.FC = () => {
 
                         <Input  name="Pedágio(R$/Eixo)" icon={FiTruck} placeholder="Pedágio ( R$/Eixo )"></Input>
 
-                        <Input  name="TarifaCarreteiro(ComPedágio)(R$/Ton)" icon={FiTruck} placeholder="Tarifa Carreteiro ( Com Pedágio ) ( R$/Ton)"></Input>
+                        <Input  name="TarifaCarreteiro(ComPedágio)(R$/Ton)" icon={FiTruck} placeholder="Tarifa Carreteiro ( Com Pedágio ) ( R$/Ton )"></Input>
 
                         <Input  name="FontedaInformação" icon={FiTruck} placeholder="Fonte da Informação"></Input>
 
