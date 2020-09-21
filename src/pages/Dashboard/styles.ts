@@ -18,7 +18,7 @@ export const HeaderContent = styled.div`
   display: flex;
   align-items: center;
   > img {
-    height: 80px;
+    height: 100px;
   }
   button {
     margin-left: auto;
@@ -40,8 +40,8 @@ export const HeaderProfile = styled.div`
   align-items: center;
   margin-left: 80px;
   img {
-    width: 56px;
-    height: 56px;
+    width: 66px;
+    height: 66px;
     border-radius: 50%;
   }
   div {
