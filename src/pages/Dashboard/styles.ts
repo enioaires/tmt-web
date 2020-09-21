@@ -1,11 +1,11 @@
 import styled from 'styled-components';
 
 export const Container = styled.div`
-  height: 100vh;
+    height: 100vh;
 
-display: flex;
-align-items: stretch;
-flex-direction: column;
+    display: flex;
+    align-items: stretch;
+    flex-direction: column;
 
 
     h1{
@@ -73,5 +73,6 @@ export const Content = styled.main`
   max-width: 1120px;
   margin: 64px auto;
   display: flex;
+  
 `;
 
